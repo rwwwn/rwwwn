@@ -39,6 +39,6 @@
 
 #### 📫 Let's Connect
 
-- 💻 [My Portfolio Website](#) (coming soon)  
+- 💻 [My Portfolio Website](#) *(coming soon)*  
 - 💌 You can reach me through GitHub or [LinkedIn](http://linkedin.com/in/rawan-albaraiki-97bb38323)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
