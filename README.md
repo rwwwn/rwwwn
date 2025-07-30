@@ -11,7 +11,7 @@
 
 <br/>
 
-> “I don’t just build things — I make sure they work for everyone.”  
+> 💬 “I don’t just build things — I make sure they work for everyone.”  
 > — a future product designer who codes ✨
 
 <br/>
