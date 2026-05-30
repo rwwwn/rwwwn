@@ -1,9 +1,4 @@
-### 👋 Hi there! I'm Rawan
-
-🎓 I'm a senior Computer Information Systems student at Princess Nourah University — just one COOP away from graduation.  
-👩‍💻 Currently leveling up my skills through Holberton School's full-stack software engineering program.  
-
-
+### 👋 Hi there! I'm Rawan 🎓
 
 
 
